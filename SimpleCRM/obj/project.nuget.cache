@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ap4TWFWrY6O1hVAIt6Vduuy2kcBJ0sbpj2ymG/sBF/PUaoDfszVx9gicrHz2OtcD8QyNQOwKR0LHTP9y+LS0uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcelo.lemes\\Documents\\Projetos\\simple-crm\\SimpleCRM\\SimpleCRM\\SimpleCRM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcelo.lemes\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

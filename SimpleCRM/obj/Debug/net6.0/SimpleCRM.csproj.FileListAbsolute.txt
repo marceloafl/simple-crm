@@ -1,0 +1,17 @@
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\bin\Debug\net6.0\SimpleCRM.exe
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\bin\Debug\net6.0\SimpleCRM.deps.json
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\bin\Debug\net6.0\SimpleCRM.runtimeconfig.json
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\bin\Debug\net6.0\SimpleCRM.dll
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\bin\Debug\net6.0\SimpleCRM.pdb
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\obj\Debug\net6.0\SimpleCRM.csproj.AssemblyReference.cache
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\obj\Debug\net6.0\SimpleCRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\obj\Debug\net6.0\SimpleCRM.AssemblyInfoInputs.cache
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\obj\Debug\net6.0\SimpleCRM.AssemblyInfo.cs
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\obj\Debug\net6.0\SimpleCRM.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\obj\Debug\net6.0\SimpleCRM.dll
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\obj\Debug\net6.0\refint\SimpleCRM.dll
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\obj\Debug\net6.0\SimpleCRM.pdb
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\obj\Debug\net6.0\SimpleCRM.genruntimeconfig.cache
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\obj\Debug\net6.0\ref\SimpleCRM.dll
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\marcelo.lemes\Documents\Projetos\simple-crm\SimpleCRM\SimpleCRM\obj\Debug\net6.0\SimpleCRM.csproj.CopyComplete
